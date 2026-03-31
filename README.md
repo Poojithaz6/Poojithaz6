@@ -24,8 +24,8 @@ Now, I'm focused on building projects that combine
 ---
 
 ## 🧠 What I'm Doing Now
-- 📚 Learning: Machine Learning & Deep Learning  
-- 💻 Practicing: Data Structures & Algorithms  
+- 📚 Learning: Machine Learning,Deep Learning, AI concepts 
+- 💻 Practicing: Data Structures & Algorithms 
 - 🚀 Building: AI-based projects  
 
 ---
@@ -33,7 +33,7 @@ Now, I'm focused on building projects that combine
 ## 🛠 Skills & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,cpp,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,github,vscode," />
 </p>
 
 ---
@@ -41,7 +41,7 @@ Now, I'm focused on building projects that combine
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Poojithaz6&show_icons=true&theme=tokyonight" />
 </p>
 
 ---
@@ -54,5 +54,5 @@ To become an **AI Engineer** and build impactful, real-world intelligent systems
 
 ## 📫 Connect
 
-- LinkedIn: your-link  
-- Email: your-email  
+- LinkedIn: https://www.linkedin.com/in/poojitha-v-359541311  
+- Email: poojithav183@gmail.com  
