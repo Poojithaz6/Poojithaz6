@@ -74,6 +74,11 @@ Now, I'm focused on building projects that combine
 - Next.js
 
 ---
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/Poojithaz6/Poojithaz6/blob/output/github-contribution-grid-snake.svg" />
+</p>
 
 ## 📊 GitHub Analytics
 
