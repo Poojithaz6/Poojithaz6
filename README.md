@@ -9,6 +9,15 @@ CSE (AI/ML) Student • Future AI Engineer
 </p>
 
 ---
+<p align="center">
+  <a href="https://linkedin.com/in/https://www.linkedin.com/in/poojitha-v-359541311">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="mailto:poojithav183@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ## 🚀 My Story
 
@@ -32,16 +41,42 @@ Now, I'm focused on building projects that combine
 
 ## 🛠 Skills & Tools
 
+### 💻 Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,cpp,github,vscode," />
+  <img src="https://skillicons.dev/icons?i=java,python,c,cpp" />
 </p>
 
 ---
 
+### 🤖 AI / ML
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=pytorch" />
+</p>
+
+<p align="center">
+  K-Means • Machine Learning • Deep Learning
+</p>
+
+---
+
+### ⚙️ Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+---
+## 📚 Currently Learning
+- Deep Learning  
+- Advanced DSA  
+- AI algorithms
+- AWS
+- React
+- Next.js
+
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Poojithaz6&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=poojithaz6 &show_icons=true&theme=tokyonight" />
 </p>
 
 ---
@@ -51,8 +86,3 @@ Now, I'm focused on building projects that combine
 To become an **AI Engineer** and build impactful, real-world intelligent systems.
 
 ---
-
-## 📫 Connect
-
-- LinkedIn: https://www.linkedin.com/in/poojitha-v-359541311  
-- Email: poojithav183@gmail.com  
